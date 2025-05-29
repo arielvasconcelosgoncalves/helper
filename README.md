@@ -8,22 +8,22 @@ Atualmente, o projeto inclui:
 
 ### Página Inicial
 
-[Página Inicial](pagina_inicial.jpg)
+![Página Inicial](pagina_inicial.jpg)
 
 ### Cadastro
 
-[Cadastro](cadastro.jpg)
+![Cadastro](cadastro.jpg)
 
 ### Suporte
 
-[Suporte](suporte.jpg)
+![Suporte](suporte.jpg)
 
 ### Perfil
 
-[Perfil](perfil.jpg)
+![Perfil](perfil.jpg)
 
 ### Área Restrita
 
-[Área Restrita](area_restrita.jpg)
+![Área Restrita](area_restrita.jpg)
 
 
